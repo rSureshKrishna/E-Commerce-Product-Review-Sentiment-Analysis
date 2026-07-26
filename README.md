@@ -21,3 +21,9 @@ This is a great beginner project because it touches almost every core skill in a
 6. Train a Logistic Regression model
 7. Check how accurate the model is
 8. Test the model on new, custom reviews
+
+👨‍💻 Author
+R. Suresh Krishna
+
+📧 Email: rsureshkrishna02@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/sur-kri104
